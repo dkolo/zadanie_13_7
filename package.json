@@ -1,0 +1,17 @@
+{
+  "name": "zadanie-13-8",
+  "version": "1.0.0",
+  "description": "HTTP server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "'http'",
+    "'https'",
+    "'server'"
+  ],
+  "author": "domin",
+  "license": "ISC"
+}
